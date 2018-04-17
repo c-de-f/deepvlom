@@ -1,0 +1,11 @@
+heur; depth; hits; avgloss; delta sigma
+max intensity;4;162;1,08133;4,89167;7,08196
+max intensity;3;146;1,09109;5,55208;8,13416
+min partial makespan;4;150;1,09598;5,76875;8,16994
+min partial makespan;3;148;1,09999;6,09375;8,70524
+max intensity;2;150;1,10386;6,3375;9,04457
+max intensity;1;144;1,11332;6,98958;9,80572
+min partial makespan;2;142;1,11514;7,06875;9,90023
+max intensity;0;140;1,12648;7,76875;10,7258
+min partial makespan;1;139;1,12938;7,97083;11,0406
+min partial makespan;0;143;1,14106;8,69167;12,0395

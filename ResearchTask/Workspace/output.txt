@@ -1,0 +1,9 @@
+2 max successors number
+3 max maxNextChain
+9 min latestart
+10 min latefinish
+11 min feasible start
+12 min feasible finish
+15 max timeToCompletion()
+16 max assignments.size()
+21 min rankposweight
